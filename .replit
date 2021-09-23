@@ -1,2 +1,1 @@
-language = "nodejs"
 run = "cd src && node index.js"
